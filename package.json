@@ -50,6 +50,7 @@
     "ember-load-initializers": "^1.0.0",
     "ember-resolver": "^4.0.0",
     "ember-source": "~2.14.1",
+    "googleapis": "^21.3.0",
     "loader.js": "^4.2.3",
     "torii": "^0.9.6"
   },
